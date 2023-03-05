@@ -1,0 +1,81 @@
+597 210 class domain.objects.obstacle.types.FirmObstacle true 1
+1048 175 class domain.objects.obstacle.types.FirmObstacle true 2
+1017 315 class domain.objects.obstacle.types.FirmObstacle true 1
+353 105 class domain.objects.obstacle.types.FirmObstacle true 4
+800 210 class domain.objects.obstacle.types.ExplosiveObstacle true 1
+874 280 class domain.objects.obstacle.types.FirmObstacle true 2
+840 315 class domain.objects.obstacle.types.FirmObstacle false 1
+717 105 class domain.objects.obstacle.types.FirmObstacle true 5
+680 210 class domain.objects.obstacle.types.GiftObstacle false 1
+520 140 class domain.objects.obstacle.types.ExplosiveObstacle true 1
+520 175 class domain.objects.obstacle.types.FirmObstacle false 3
+760 175 class domain.objects.obstacle.types.SimpleObstacle false 1
+188 280 class domain.objects.obstacle.types.ExplosiveObstacle true 1
+1120 140 class domain.objects.obstacle.types.SimpleObstacle false 1
+117 70 class domain.objects.obstacle.types.SimpleObstacle true 1
+840 70 class domain.objects.obstacle.types.SimpleObstacle false 1
+40 175 class domain.objects.obstacle.types.ExplosiveObstacle false 1
+360 245 class domain.objects.obstacle.types.GiftObstacle false 1
+400 105 class domain.objects.obstacle.types.GiftObstacle false 1
+1160 280 class domain.objects.obstacle.types.GiftObstacle false 1
+80 70 class domain.objects.obstacle.types.GiftObstacle false 1
+1121 70 class domain.objects.obstacle.types.ExplosiveObstacle false 1
+440 70 class domain.objects.obstacle.types.ExplosiveObstacle false 1
+1000 70 class domain.objects.obstacle.types.SimpleObstacle false 1
+1000 175 class domain.objects.obstacle.types.SimpleObstacle false 1
+881 315 class domain.objects.obstacle.types.SimpleObstacle true 1
+80 140 class domain.objects.obstacle.types.SimpleObstacle false 1
+596 105 class domain.objects.obstacle.types.SimpleObstacle true 1
+837 175 class domain.objects.obstacle.types.SimpleObstacle true 1
+637 70 class domain.objects.obstacle.types.SimpleObstacle true 1
+1080 175 class domain.objects.obstacle.types.SimpleObstacle false 1
+37 105 class domain.objects.obstacle.types.SimpleObstacle true 1
+1120 105 class domain.objects.obstacle.types.SimpleObstacle false 1
+960 140 class domain.objects.obstacle.types.SimpleObstacle false 1
+633 140 class domain.objects.obstacle.types.SimpleObstacle true 1
+760 70 class domain.objects.obstacle.types.SimpleObstacle false 1
+1081 315 class domain.objects.obstacle.types.SimpleObstacle true 1
+920 140 class domain.objects.obstacle.types.SimpleObstacle false 1
+884 70 class domain.objects.obstacle.types.SimpleObstacle true 1
+1120 210 class domain.objects.obstacle.types.SimpleObstacle false 1
+640 175 class domain.objects.obstacle.types.SimpleObstacle false 1
+108 175 class domain.objects.obstacle.types.SimpleObstacle true 1
+720 175 class domain.objects.obstacle.types.SimpleObstacle false 1
+680 140 class domain.objects.obstacle.types.SimpleObstacle false 1
+520 70 class domain.objects.obstacle.types.SimpleObstacle false 1
+716 140 class domain.objects.obstacle.types.SimpleObstacle true 1
+480 70 class domain.objects.obstacle.types.SimpleObstacle false 1
+120 105 class domain.objects.obstacle.types.SimpleObstacle false 1
+920 105 class domain.objects.obstacle.types.SimpleObstacle false 1
+593 175 class domain.objects.obstacle.types.SimpleObstacle true 1
+560 140 class domain.objects.obstacle.types.SimpleObstacle false 1
+960 315 class domain.objects.obstacle.types.SimpleObstacle false 1
+800 70 class domain.objects.obstacle.types.SimpleObstacle false 1
+OBJECTS END
+SCORE START
+628
+SCORE END
+LIVES START
+3
+LIVES END
+ABILITIES START
+Magical Hex
+Magical Hex
+Magical Hex
+ABILITIES END
+GIFTBOXES START
+false 3 40 3464
+true 1 720 3074
+true 1 160 2644
+false 1 160 2451
+true 1 640 1376
+GIFTBOXES END
+EXPLOSIVE PARTICLES START
+40.0 3496.0
+160.0 3448.0
+280.0 739.0
+920.0 376.0
+EXPLOSIVE PARTICLES END
+GAMETIME START
+124
+GAMETIME END
